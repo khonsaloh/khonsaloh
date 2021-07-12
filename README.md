@@ -4,7 +4,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=khonsaloh&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.paypal.me/60nza10"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="khonsaloh" /></a>
+  <a href="https://www.paypal.me/60nza10"> <img align="center" src="https://img.shields.io/badge/don-paypal-blue" height="50" width="210" alt="khonsaloh" /></a>
 </p>
 
 <!-- <p align="center">
